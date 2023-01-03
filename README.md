@@ -1,9 +1,9 @@
 ### Olá mundo! Meu nome é Igor Garcia Cunha de Oliveira 👋
 
 - 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando atualmente React Native
+- 🌱 Meu foco atualmente é VueJS
 - 👯 Meu e-mail: igorgarciaco@gmail.com
-- 💬 #opentowork
+- 💬 UNATI/TK Elevator
 - 😄 Pronouns: ele/dele
 
 <div align="center">

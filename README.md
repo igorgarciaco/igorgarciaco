@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Meu foco atualmente é VueJS
 - 👯 Meu e-mail: igorgarciaco@gmail.com
-- 💬 UNATI/TK Elevator
+- 💬 Confira o Gitlab: https://gitlab.com/igor.garcia
 - 😄 Pronouns: ele/dele
 
 <div align="center">
